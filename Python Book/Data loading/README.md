@@ -1,1 +1,1 @@
-load multiple format data (endorsed by python book)
+All notes from python book
